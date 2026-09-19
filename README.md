@@ -4,7 +4,7 @@
 Делает 10 последовательных запросов к указанному URL (например, к тяжёлой картинке),
 замеряет время, объём скачанных данных и выводит среднюю скорость в **МБ/с**.
 
-Для проверки кода: python speedtest.py http://ipv4.download.thinkbroadband.com/50MB.zip
+Для проверки кода в терминале введите: python speedtest.py http://ipv4.download.thinkbroadband.com/50MB.zip
 
 ## Требования
 - Python 3.7+
